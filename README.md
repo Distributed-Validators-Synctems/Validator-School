@@ -31,7 +31,7 @@ Depending on your application, you will either: <br />
 - Provided a mentor represented by one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
 - Provided online support and support from one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
 
-## In case of successful completion of the studying
+## In case of the successful studying
 
 1. If you prove yourself in the studying process and also correspond for the [minimum requirements for Validators DVS](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS), you may be invited to become a part of **Decentralized Autonomous Synchronization** [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), which will give you [additional features](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS)
 
