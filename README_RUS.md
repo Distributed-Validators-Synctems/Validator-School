@@ -12,12 +12,14 @@
 ## Процесс принятия участие в Школе Валидаторов
 
 1. Заполните заявку на участие в **Школе Валидаторов**:
-- [На английском](https://forms.gle/RQHc9PoajDPvzL2r9)
 - [На русском](https://forms.gle/eArf4m838dRFKqCd6)
+- [На английском](https://forms.gle/RQHc9PoajDPvzL2r9)
+
 
 2. Присоединяйтесь к Telegram-группе **Школыа Валидаторов** и напишите туда, что Вы заполнили заявку:
-- [In english](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
-- [In russian](https://t.me/joinchat/GPwaOPPzQA04MzNi)
+- [На русском](https://t.me/joinchat/GPwaOPPzQA04MzNi)
+- [На английском](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
+
 
 3. После ознакомления с вашей заявкой вам могут задать несколько уточняющих вопросов. <br />
 На основании данных из вашей заявки, а также исходя из ответов на дополнительные вопросы, ваша заявка будет одобрена или отклонена. <br />
