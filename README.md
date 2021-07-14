@@ -33,7 +33,7 @@ Depending on your application, you will either: <br />
 
 ## In case of successful completion of the studying
 
-1. If you prove yourself in the studying process and also correspond for the [minimum requirements for Validators DVS](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS), you may be invited to become a part of **Decentralized Offline Synchronization** [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), which will give you [additional features](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS)
+1. If you prove yourself in the studying process and also correspond for the [minimum requirements for Validators DVS](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS), you may be invited to become a part of **Decentralized Autonomous Synchronization** [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), which will give you [additional features](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS)
 
 2. Depending on your skills and talents, you may be asked to join the [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) or [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik) as a team member for:
 - Development of software code
