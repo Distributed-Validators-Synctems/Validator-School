@@ -1,4 +1,4 @@
-[English](https://github.com/Distributed-Validators-Synctems/Validator-School/edit/main/README.md) [Русский]() <br />
+[English](https://github.com/Distributed-Validators-Synctems/Validator-School/edit/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) <br />
 
 # Validator School
 
@@ -6,7 +6,7 @@
 - Are you looking for a mentor who will explain the specifics of validation?
 - Need online support for running a validator on the main-net?
 
-[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) opens a **Validator School**, which will help you acquire the necessary knowledge to validate blockchains, and will provide full online support from the beginning to the launch of the validator. <br />
+[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) and [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) launch a **Validator School**, which will help you acquire the necessary knowledge to validate blockchains, and will provide full online support from the beginning to the launch of the validator. <br />
 The most capable students will be able to synchronize with the **DVS**. <br />
 
 ## Application process for participation in the Validator School
