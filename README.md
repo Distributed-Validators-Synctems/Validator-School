@@ -31,6 +31,46 @@ Depending on your application, you will either: <br />
 - Provided a mentor represented by one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
 - Provided online support and support from one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
 
+## How the education process works
+
+- The full course includes both: group and individual online lessons
+- Classes include online lectures, practical seminars and workshops, and watching educational videos (homework)
+- Learning takes place in stages: from simple to complex
+- After the complete completion of the first stage, there is a transition to the second stage, and then to the third
+- Transition to a more difficult stage is impossible without complete assimilation of the material from an easier stage
+- In case of complete misunderstanding of a more difficult stage, the participant of School returns to an easier stage
+
+- Education are divided into two parts: Technical and Humanities
+- Each part consists of Theoretical and Practical lessons
+- Education begins with the Humanitarian part, in order to give a complete picture of "what validation is" and "who a Validator is"
+
+## What the full course of study includes
+
+>> some seminars require financial costs, which the participant of the school assumes. <br />
+>> in individual cases, financial costs can be reimbursed from the funds of the fundoundation <br />
+
+### The humanitarian side of validation
+1. How does the blockchain work? (lecture)
+2. What is Consensus? (lecture)
+3. Structures that don't require permission to participate (lecture)
+4. The role of validators in distributed networks (lecture)
+5. Validation as a hobby and as a way to earn money (lecture)
+6. Problems of Validators and ways to solve them (lecture-seminar)
+7. The difference between a "good" Validator and a "bad" one (lecture-seminar)
+8. How to choose which network to validate? (lecture-seminar)
+9. Review of the current situation in the field of validation (lecture)
+
+### Technical side of validation
+1. What is required for validation? (lecture-seminar)
+2. Cyber-security (workshop)
+3. Acquaintance with Linux (seminar-workshop)
+4. Understanding the documentation (seminar)
+5. How to communicate with the blockchain (seminar-workshop)
+6. Launching the test validator (workshop)
+7. Updating the validator (workshop)
+8. Participation in the test network of a real blockchain project (seminar-workshop)
+9. Participation in the main network of a real blockchain project (seminar-workshop)
+
 ## In case of the successful studying
 
 1. If you prove yourself in the studying process and also correspond for the [minimum requirements for Validators DVS](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS), you may be invited to become a part of **Decentralized Autonomous Synchronization** [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), which will give you [additional features](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS)
