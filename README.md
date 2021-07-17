@@ -13,7 +13,7 @@ The most capable students will be able to synchronize with the **DVS**. <br />
 
 1. Fill the application for participation in the **Validator School**:
 - [In english](https://forms.gle/nQ2TrzSuuYWBZwbD8)
-- [In russian](https://forms.gle/eArf4m838dRFKqCd6)
+- [In russian](https://forms.gle/fqMUo5tT9eaA5vT9A)
 
 2. Join Telegram group of the **Validator School**, and write there that you have completed the application:
 - [In english](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
