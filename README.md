@@ -50,15 +50,13 @@ Depending on your application, you will either: <br />
 >> in individual cases, financial costs can be reimbursed from the funds of the fundoundation <br />
 
 ### The humanitarian side of validation
-1. How does the blockchain work? (lecture)
-2. What is Consensus? (lecture)
-3. Structures that don't require permission to participate (lecture)
-4. The role of validators in distributed networks (lecture)
-5. Validation as a hobby and as a way to earn money (lecture)
-6. Problems of Validators and ways to solve them (lecture-seminar)
-7. The difference between a "good" Validator and a "bad" one (lecture-seminar)
-8. How to choose which network to validate? (lecture-seminar)
-9. Review of the current situation in the field of validation (lecture)
+1. Overview of the current situation in the field of validation, Different roles of validators in the blockchain, Validation as a hobby and as a way to make money (lecture)
+2. Permissionless Structures, Consensus in the blockchain and Consensus between people (lecture)
+3. How not to get lost among the rest: packing the validator (seminar-lecture)
+4. How to choose the Network to validate? (seminar-lecture)
+5. What can the Validator brings to the Network, besides security? (seminar-lecture)
+6. How to communicate with project creators and other validators? (seminar-lecture)
+7. Problems of Validators and ways to solve them (seminar-lecture)
 
 ### Technical side of validation
 1. What is required for validation? (lecture-seminar)
