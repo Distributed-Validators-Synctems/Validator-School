@@ -12,7 +12,7 @@
 ## Процесс принятия участие в Школе Валидаторов
 
 1. Заполните заявку на участие в **Школе Валидаторов**:
-- [На русском](https://forms.gle/Lz8n6cjzxmbS5fLt8)
+- [На русском](https://forms.gle/NHUdTsTPzMBoS5E4A)
 - [На английском](https://forms.gle/C3xkaJtSnbcSirzw8)
 
 
