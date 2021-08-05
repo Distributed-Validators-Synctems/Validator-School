@@ -11,6 +11,8 @@
 ## Технический Курс
 
 1. Знакомство с Linux и Cosmos SDK
+[Презентация](https://docs.google.com/presentation/d/12SSZfmliarW0P9cx3sEq_4ZeBZLKwJRhFjC1648wYkc/edit?usp=sharing)
+
 (Семинар)
 - Много дестрибутивов, но лучше использовать либо Ubuntu, либо Debian. Разницы между ними почти нет. Debian более стабильный.
 - Знакомство с основными командами которые нужны при валидировании
