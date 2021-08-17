@@ -6,7 +6,7 @@
 - Ищете наставника, который объяснит особенности валидации?
 - Нужна онлайн-поддержка для запуска валидатора в основной сети?
 
-[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) и [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) открывают **Школу валидаторов**, которая поможет вам приобрести необходимые знания для проверки блокчейнов и предоставит полную онлайн-поддержку от начало запуска валидатора. <br />
+[DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity) и [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) открывают **Школу Валидаторов**, которая поможет вам приобрести необходимые знания для проверки блокчейнов и предоставит полную онлайн-поддержку от начало запуска валидатора. <br />
 Самые способные ученики смогут синхронизироваться с **DVS**. <br />
 
 ## Процесс принятия участие в Школе Валидаторов
