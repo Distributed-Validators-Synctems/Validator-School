@@ -1,8 +1,8 @@
 ## Гуманитарный Курс
 
-1.
+1. [Презентация #1](https://docs.google.com/presentation/d/1klrjhkkdVW0ACZLPe3BvOqfi92toxEHPj6C1X8W8JiU/edit?usp=sharing)
 2.
-3.
+3. [Презентация #3](https://docs.google.com/presentation/d/1tJn1LfGO4fsUXPWucrfquVdl-_8MGikQC6QvN94Ict0/edit?usp=sharing)
 4.
 5.
 6.
