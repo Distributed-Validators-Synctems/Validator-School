@@ -59,10 +59,10 @@ Depending on your application, you will either: <br />
 7. Problems of Validators and ways to solve them (seminar-lecture)
 
 ### Technical side of validation
-1. What is required for validation? (lecture-seminar)
-2. Cyber-security (seminar-workshop)
-3. Acquaintance with Linux (seminar-workshop)
-4. Understanding the documentation (seminar)
+1. Acquaintance with Linux and CosmosSDK documentation (seminar-workshop)
+2. What is required for validation? (lecture-seminar)
+3. Cyber-security (seminar-workshop)
+4. Acquaintance with Linux (seminar-workshop)
 5. How to communicate with the blockchain (seminar-workshop)
 6. Launching the test validator (workshop)
 7. Updating the validator (workshop)
