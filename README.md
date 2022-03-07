@@ -25,11 +25,10 @@ If the application is rejected, it will be possible to re-submit it after 21 day
 
 ## If your application is approved
 
-Depending on your application, you will either: <br />
-- Provided the necessary knowledge (online consultation, links to documentation)
-- Provided a place in the educational
-- Provided a mentor represented by one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
-- Provided online support and support from one of the [DVS validators](https://github.com/Distributed-Validators-Synctems/Self-Identity/blob/main/meet-our-validators.md)
+- You will be given a place in an educational group.
+- Each group will be assigned several mentors who will accompany you throughout the training.
+- Each group will have a schedule of online classes.
+- To participate in the educational process, you need to have a personal computer (or laptop), an Internet connection to participate in online meetings and a microphone to participate in conversations. A video camera is not required. Some classes can be attended using a mobile phone.
 
 ## How the education process works
 
@@ -49,25 +48,29 @@ Depending on your application, you will either: <br />
 >> some seminars require financial costs, which the participant of the school assumes. <br />
 >> in individual cases, financial costs can be reimbursed from the funds of the fundoundation <br />
 
-### The humanitarian side of validation
-1. Overview of the current situation in the field of validation, Different roles of validators in the blockchain, Validation as a hobby and as a way to make money (lecture)
+### Humanitarian side of validation
+1. Introduction to validation (lecture)
 2. Permissionless Structures, Consensus in the blockchain and Consensus between people (lecture)
-3. How not to get lost among the rest: packing the validator (seminar-lecture)
+3. How not to get lost among the rest: validator packaging (seminar-lecture)
 4. How to choose the Network to validate? (seminar-lecture)
-5. What can the Validator brings to the Network, besides security? (seminar-lecture)
+5. Different ways of contributing to the Network (seminar-lecture)
 6. How to communicate with project creators and other validators? (seminar-lecture)
-7. Problems of Validators and ways to solve them (seminar-lecture)
 
 ### Technical side of validation
-1. Acquaintance with Linux and CosmosSDK documentation (seminar-workshop)
+1. Introduction to Linux and Cosmos SDK documentation (workshop)
 2. What is required for validation? (lecture-seminar)
 3. Cyber-security (seminar-workshop)
-4. Acquaintance with Linux (seminar-workshop)
-5. How to communicate with the blockchain (seminar-workshop)
-6. Launching the test validator (workshop)
-7. Updating the validator (workshop)
-8. Participation in the test network of a real blockchain project (seminar-workshop)
-9. Participation in the main network of a real blockchain project (seminar-workshop)
+4. Communicating with blockchain (workshop)
+
+### The practical side of validation
+1. Rent a server (workshop)
+2. Prepare a server for running of node (workshop)
+3. Launching a validator on the main-net of a real blockchain project (workshop)
+
+### Additional Workshops
+1. Understanding GitHub
+2. Installing Linux
+3. Create a validator page
 
 ## In case of the successful studying
 
