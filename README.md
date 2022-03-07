@@ -19,9 +19,8 @@ The most capable students will be able to synchronize with the **DVS**. <br />
 - [In english](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
 - [In russian](https://t.me/joinchat/GPwaOPPzQA04MzNi)
 
-3. After reviewing your application, you may be asked a few clarifying questions. <br />
-Based on the data from your application, as well as based on the answers to additional questions, your application will be approved or rejected. <br />
-If the application is rejected, it will be possible to re-submit it after 21 days. <br />
+3. After reviewing your application, you need to participate in The Firs Meet (online mmet), to clearify all questions. <br />
+After the First Meet, if you are agree with the rules of educational proccess, your application will be approved. <br />
 
 ## If your application is approved
 
