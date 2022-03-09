@@ -48,7 +48,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 >> in individual cases, financial costs can be reimbursed from the funds of the fundoundation <br />
 
 ### Humanitarian side of validation
-1. Introduction to validation (lecture)
+1. Introduction to validation (lecture) | [Slides for Lesson #1](https://docs.google.com/presentation/d/1mpw9372T5mGx5Hm8iykhX2AZGaALwpxwYQjQ_A6WTgM/edit?usp=sharing)
 2. Permissionless Structures, Consensus in the blockchain and Consensus between people (lecture)
 3. How not to get lost among the rest: validator packaging (seminar-lecture)
 4. How to choose the Network to validate? (seminar-lecture)
