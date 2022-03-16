@@ -50,7 +50,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 ### Humanitarian side of validation
 1. Introduction to validation (lecture) | [Slides for Lesson #1](https://docs.google.com/presentation/d/1mpw9372T5mGx5Hm8iykhX2AZGaALwpxwYQjQ_A6WTgM/edit?usp=sharing)
 2. Permissionless Structures, Consensus in the blockchain and Consensus between people (lecture) | [Slides for Lesson #2](https://docs.google.com/presentation/d/1YUild8LdIk5emPhsk58bJir8l9jIE_YIoL3nc3htxQ4/edit?usp=sharing)
-3. How not to get lost among the rest: validator packaging (seminar-lecture)
+3. How not to get lost among the rest: validator packaging (seminar-lecture) | [Slides for Lesson #3](https://docs.google.com/presentation/d/15COVaiR1HpgfhAMMxJCUh6nnQyqhbBUGQi2YUQKTZGY/edit?usp=sharing)
 4. How to choose the Network to validate? (seminar-lecture)
 5. Different ways of contributing to the Network (seminar-lecture)
 6. How to communicate with project creators and other validators? (seminar-lecture)
