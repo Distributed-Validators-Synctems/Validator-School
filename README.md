@@ -56,7 +56,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 6. How to communicate with project creators and other validators? (seminar-lecture)
 
 ### Technical side of validation
-1. Introduction to Linux and Cosmos SDK documentation (workshop) [Slides for technical lesson #1](https://bit.ly/3NhX7Hw)
+1. Introduction to Linux and Cosmos SDK documentation (workshop) | [Slides for technical lesson #1](https://bit.ly/3NhX7Hw)
 2. What is required for validation? (lecture-seminar)
 3. Cyber-security (seminar-workshop)
 4. Communicating with blockchain (workshop)
