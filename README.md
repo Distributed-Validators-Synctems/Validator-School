@@ -19,7 +19,7 @@ The most capable students will be able to synchronize with the **DVS**. <br />
 - [In english](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
 - [In russian](https://t.me/joinchat/GPwaOPPzQA04MzNi)
 
-3. After reviewing your application, you need to participate in [The Firs Meet](https://docs.google.com/presentation/d/1y3WgGzWx6L11wARu9USBsOajVgzoWOxqddXqdM59fLg/edit?usp=sharing) (online meet), to clearify all questions. <br />
+3. After reviewing your application, you need to participate in [The Firs Meet](https://docs.google.com/presentation/d/1y3WgGzWx6L11wARu9USBsOajVgzoWOxqddXqdM59fLg/edit?usp=sharing) (online meet), to clarify all questions. <br />
 After the First Meet, if you are agree with the rules of educational proccess, your application will be approved. <br />
 
 ## If your application is approved
