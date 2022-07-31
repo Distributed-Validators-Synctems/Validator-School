@@ -64,7 +64,8 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 ### The practical side of validation
 1. Rent a server (workshop)
 2. Prepare a server for running of node (workshop)
-3. Launching a validator on the main-net of a real blockchain project (workshop)
+3. Launching a validator on the test-net (workshop)
+4. Launching a validator on the main-net of a real blockchain project (workshop)
 
 ### Additional Workshops
 1. Understanding GitHub
