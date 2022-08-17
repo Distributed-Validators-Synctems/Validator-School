@@ -1,4 +1,4 @@
-## Оразовательная Модель v1.1
+## Образовательная Модель v1.1
 
 ## Гуманитарная сторона валидирования
 1. Введение в валидирование (лекция) | [Презентация #1](https://docs.google.com/presentation/d/1klrjhkkdVW0ACZLPe3BvOqfi92toxEHPj6C1X8W8JiU/edit?usp=sharing)
