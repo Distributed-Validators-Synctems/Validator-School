@@ -1,6 +1,6 @@
 ![artcryptorg](https://github.com/artcryptorg/proofofart/blob/main/sirclartcryptorgless.png)
 
-                                     https://artcryp.org
+                                     https://artcrypt.org
                                      
  ## Artcryptorg activity:
  
