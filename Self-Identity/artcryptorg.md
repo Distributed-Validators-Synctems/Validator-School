@@ -6,8 +6,9 @@
  
 ### Active Cosmos Mainnets: <br />
 - [Bitcanna](https://wallet.bitcanna.io/validators/bcnavaloper1cyup3p032ryt58rw9t4fy9yy9qpm3yr22nf0pm)
-
+- [Canto](https://www.mintscan.io/canto/validators/cantovaloper1thtjydhkhewsgy2rm3dp8ajupg0mwxh56g9vsn)
 ### Active non-Cosmo Mainnets: <br />
+
 - [Minima](https://www.minima.global/)
 
 ### Validator, but not in active set: <br />
