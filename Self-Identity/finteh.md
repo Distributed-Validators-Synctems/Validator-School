@@ -29,6 +29,9 @@ Now we want to revive staking by our community and pay more attention to the cos
     - https://github.com/cybercongress/go-cyber/issues/574
 - events
     - Cosmos Atom for Ethereum developers | Warsaw 2023
+- voting for proposals
+    - E-money
+    - Archway
     
 ### Web3 
     
