@@ -27,6 +27,7 @@ Now we want to revive staking by our community and pay more attention to the cos
     - https://github.com/cybercongress/go-cyber/pull/538
     - https://github.com/cosmostation/defistation-web/issues/4
     - https://github.com/cybercongress/go-cyber/issues/574
+    - https://github.com/Distributed-Validators-Synctems/Validator-School/issues/1
 - events
     - Cosmos Atom for Ethereum developers | Warsaw 2023
 - voting for proposals
