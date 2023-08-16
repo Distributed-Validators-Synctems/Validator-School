@@ -15,8 +15,8 @@
 - [Lava](https://info.lavanet.xyz/providers/lava@1vu3xj8yv8280mx5pt64q4xg37692txwm422ymp)
 
 # Contributions
-- [Dashboard](http://lighth.group/bitcanna-1)
-- [RPC, REST, gRPC](http://lighth.group/bitcanna-1)
+- [Dashboards](http://185.193.66.249:3000/d/dd5b940d-dc34-490f-afaf-77af11edbb23/1-dashboard?orgId=1&refresh=10s&from=now-6h&to=now)
+- [RPC, REST, gRPC](http://185.193.66.249:26657)
 - coming soon
 
 
