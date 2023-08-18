@@ -1,7 +1,7 @@
 # Validator DigitalBridge
 
 ## Active Mainnets:
-- [Лujira](https://blue.kujira.network/stake/kujiravaloper17hsj706vwp32hhdvad3drwf805wytm4ryjec6m)
+- [Kujira](https://blue.kujira.network/stake/kujiravaloper17hsj706vwp32hhdvad3drwf805wytm4ryjec6m)
 
 
 ### Contacts:
