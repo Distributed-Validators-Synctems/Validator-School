@@ -13,7 +13,7 @@
 
 1. Заполните заявку на участие в **Школе Валидаторов**:
 - [На русском](https://forms.gle/NHUdTsTPzMBoS5E4A)
-- [На английском](https://forms.gle/8J8yTjv4DndYQXnMA)
+- [На английском](https://forms.gle/NYqUJbMXoUMB3hGGA)
 
 
 2. Присоединяйтесь к Telegram-группе **Школы Валидаторов** и напишите туда, что Вы заполнили заявку:
