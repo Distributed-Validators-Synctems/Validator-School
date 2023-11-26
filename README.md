@@ -57,9 +57,9 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 
 ### Technical side of validation
 1. Introduction to Linux and Cosmos SDK documentation (workshop) | [Slides for technical lesson #1](https://bit.ly/3NhX7Hw)
-2. What is required for validation? (lecture-seminar)
-3. Cyber-security (seminar-workshop)
-4. Communicating with blockchain (workshop)
+2. What is required for validation? (lecture-seminar) | [Slides for tech lesson #2](https://docs.google.com/presentation/d/1cEl69xgSsbQMjLwW85z-9VIVCt1xdWqxG_nUBc8ejEs/edit?usp=sharing)
+3. Cyber-security (seminar-workshop) | [Slides for tech lesson #3](https://docs.google.com/presentation/d/1m5CFf-q5ayO6iV7_9FImSozFT4qWVuQvtpvqJX5ZtbA/edit?usp=sharing)
+4. Communicating with blockchain (workshop) | [Sheets for tech lesson #4](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
 
 ### The practical side of validation
 1. Rent a server (workshop)
