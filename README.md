@@ -86,3 +86,14 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 - Development of games on the blockchain
 - Fund management
 - Much more ...
+
+# Decentralizaed Governance
+
+1) Validator School is governed by mentors by the Validator School SubDAO, that is driving by DVS DAS
+2) Alumni of Validator School also can join Alumni SubDAO to participate in the decentralized governance
+
+## Structure
+
+- [Distribut"ed Validators Synctems DAS](https://daodao.zone/dao/juno1h69ky4da8pzauxf0gft7ke9k52vgtp9tjv04527zcfel0272c3qs33sc3j)
+- [Validator School SubDAO](https://daodao.zone/dao/juno1pn54yshdvzjj87qaux8ev33twm4nuhcwyf0uefhcdk77v2jdpc5sgw5wrk)
+- [Alumni SubDAO](https://daodao.zone/dao/juno1ucawzudwafclwsvycsgmjnprujznd6ark4guq5hs7yp74ld4079s4h4z0q)
