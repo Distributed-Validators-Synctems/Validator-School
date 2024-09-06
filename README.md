@@ -56,36 +56,23 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 6. How to communicate with project creators and other validators? (seminar-lecture)
 
 ### Technical side of validation
-1. Introduction to Linux and Cosmos SDK documentation (workshop) | [Slides for technical lesson #1](https://bit.ly/3NhX7Hw)
-2. What is required for validation? (lecture-seminar) | [Slides for tech lesson #2](https://docs.google.com/presentation/d/1cEl69xgSsbQMjLwW85z-9VIVCt1xdWqxG_nUBc8ejEs/edit?usp=sharing)
-3. Cyber-security (seminar-workshop) | [Slides for tech lesson #3](https://docs.google.com/presentation/d/1m5CFf-q5ayO6iV7_9FImSozFT4qWVuQvtpvqJX5ZtbA/edit?usp=sharing)
-4. Communicating with blockchain (workshop) | [Sheets for tech lesson #4](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
+1. What is required for validation? (lecture-seminar) | [Slides for tech lesson #2](https://docs.google.com/presentation/d/1cEl69xgSsbQMjLwW85z-9VIVCt1xdWqxG_nUBc8ejEs/edit?usp=sharing)
+2. Introduction to Linux and Cosmos SDK documentation (workshop) | [Slides for technical lesson #1](https://bit.ly/3NhX7Hw)
+3. Communicating with the blockchain (workshop) | [Sheets for tech lesson #4](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
+4. Cyber-security and validator settings (seminar-workshop) | [Slides for tech lesson #3](https://docs.google.com/presentation/d/1m5CFf-q5ayO6iV7_9FImSozFT4qWVuQvtpvqJX5ZtbA/edit?usp=sharing)
 
-### The practical side of validation
-1. Rent a server (workshop)
-2. Prepare a server for running of node (workshop)
-3. Launching a validator on the test-net (workshop)
-4. Launching a validator on the main-net of a real blockchain project (workshop)
+### The practical side of validation (launching own test-net)
+1. Prepare a server for running of node + gentx (workshop)
+2. Launching a genesis validator in own test-net (workshop)
+3. Testing the network
+
+### Diploma Work
+1. Launching validator in the main-net
 
 ### Additional Workshops
 1. Understanding GitHub
 2. Installing Linux
 3. Create a validator page
-
-## In case of the successful studying
-
-1. If you prove yourself in the studying process and also correspond for the [minimum requirements for Validators DVS](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS), you may be invited to become a part of **Decentralized Autonomous Synchronization** [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), which will give you [additional features](https://github.com/Distributed-Validators-Synctems/Synchronize-with-DVS)
-
-2. Depending on your skills and talents, you may be asked to join the [DVS](https://github.com/Distributed-Validators-Synctems/Self-Identity), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) or [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik) as a team member for:
-- Development of software code
-- Design and Graphics
-- Content creation
-- Community development
-- Moderation of social networks
-- Organization of events and competitions
-- Development of games on the blockchain
-- Fund management
-- Much more ...
 
 # Decentralizaed Governance
 
