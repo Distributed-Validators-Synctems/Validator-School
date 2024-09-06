@@ -74,6 +74,14 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 2. Installing Linux
 3. Create a validator page
 
+## In case of successful completion of the training
+
+1. You will receive a unique Digital Diploma (Alumnus NFT), which will confirm that you have fully completed the educational course at the Validator School
+- This Digital Diploma will also give you the right to receive support from DVS in various issues related to validation
+- You will also be able to join the Alumni SubDAO to participate in Decentralized Governance
+
+2. You will launch a validator in the main network of one of the possible blockchain projects, and you will be provided with a minimum delegation from DVS, which will allow you to be on the list of active validators for some time. This time will be enough for you to prove yourself as a validator and receive a delegation from the community or Foundation/Project, provided that you make personal efforts and apply the acquired knowledge in practice.
+
 # Decentralizaed Governance
 
 1) Validator School is governed by mentors by the Validator School SubDAO, that is driving by DVS DAS
