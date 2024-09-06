@@ -73,6 +73,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 1. Understanding GitHub
 2. Installing Linux
 3. Create a validator page
+4. Run RPC and block explorer
 
 ## In case of successful completion of the training
 
