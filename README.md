@@ -83,6 +83,24 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 
 2. You will launch a validator in the main network of one of the possible blockchain projects, and you will be provided with a minimum delegation from DVS, which will allow you to be on the list of active validators for some time. This time will be enough for you to prove yourself as a validator and receive a delegation from the community or Foundation/Project, provided that you make personal efforts and apply the acquired knowledge in practice.
 
+### Additional Features for Validator School Graduates
+
+Graduating from Validator School not only grants you a diploma but also opens up various avenues for contributing to projects across the Cosmos Ecosystem. To further enhance the value for our alumni, we are excited to introduce several new features available exclusively to graduates:
+
+1. **Workshops for Graduates**
+
+   As a Validator School graduate, you will have access to exclusive workshops featuring prominent speakers from Cosmos Ecosystem projects, active community participants, and more. These workshops aim to provide deeper insights and hands-on knowledge beyond the core curriculum. Graduates are invited to attend these events at no cost. Future courses may include special workshops led by various teams from the ecosystem, offering unique learning opportunities tailored to current developments and trends.
+
+2. **Job Opportunities**
+
+   Graduates who have successfully completed the course and are part of the Graduates Group will be eligible to receive job opportunities on a demand basis. This means that when projects reach out to us with inquiries for roles such as Validators, Community Managers, or other positions, we will share these opportunities with you. It’s a chance to apply your skills in real-world scenarios and advance your career in the blockchain ecosystem.
+
+3. **Graduates' Telegram Chat**
+
+   Upon completing the course, graduates are invited to join a dedicated Telegram chat exclusively for alumni. This chat serves as a platform for ongoing communication, knowledge exchange, and peer support among graduates. It’s a space where you can connect with other Validator School alumni, share insights, discuss best practices, and collaborate on new initiatives. Being part of this community allows you to stay up-to-date with the latest opportunities and trends, as well as to benefit from the collective expertise and support of your peers.
+
+These features are designed to provide ongoing value to our graduates, ensuring that their journey with Validator School extends beyond the classroom and into a vibrant, supportive community.
+
 # Decentralizaed Governance
 
 1) Validator School is governed by mentors by the Validator School SubDAO, that is driving by DVS DAS
@@ -90,6 +108,6 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 
 ## Structure
 
-- [Distribut"ed Validators Synctems DAS](https://daodao.zone/dao/juno1h69ky4da8pzauxf0gft7ke9k52vgtp9tjv04527zcfel0272c3qs33sc3j)
+- [Distributed Validators Synctems DAS](https://daodao.zone/dao/juno1h69ky4da8pzauxf0gft7ke9k52vgtp9tjv04527zcfel0272c3qs33sc3j)
 - [Validator School SubDAO](https://daodao.zone/dao/juno1pn54yshdvzjj87qaux8ev33twm4nuhcwyf0uefhcdk77v2jdpc5sgw5wrk)
 - [Alumni SubDAO](https://daodao.zone/dao/juno1ucawzudwafclwsvycsgmjnprujznd6ark4guq5hs7yp74ld4079s4h4z0q)
