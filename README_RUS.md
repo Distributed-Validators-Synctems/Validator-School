@@ -51,7 +51,7 @@
 
 ### Гуманитарная сторона валидирования
 1. Введение в валидирование (лекция) | [Презентация #1](https://docs.google.com/presentation/d/1klrjhkkdVW0ACZLPe3BvOqfi92toxEHPj6C1X8W8JiU/edit?usp=sharing)
-2. Структуры не требующие разрешения для участия, Консенсус в блокчейне и Консенсус между людьми (лекция) | [Презентация #2](https://docs.google.com/presentation/d/1b_xpTiQxTNyiDZQx1SQ_zprsNqHeM5jwXR5hLNbl1o4/edit?usp=sharing)
+2. Структуры не требующие разрешения для участия, Консенсус в блокчейне и Консенсус между людьми (лекция) | [Презентация #2](https://docs.google.com/presentation/d/1Pe_OzRnH6LZAjLvADTuJMoUctI1DvSBOU667nNclCps/edit#slide=id.p)
 3. Как не потеряться на фоне остальных: упаковка валидатора (семинар-лекция) | [Презентация #3](https://docs.google.com/presentation/d/1tJn1LfGO4fsUXPWucrfquVdl-_8MGikQC6QvN94Ict0/edit?usp=sharing)
 4. Как выбрать какую сеть валидировать? (семинар-лекция)
 5. Какую пользу может принести валидатор Сети, кроме безопасности? (семинар-лекция)
