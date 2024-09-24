@@ -59,7 +59,7 @@
 
 ### Техническая сторона валидирования
 1. Что необходимо для валидирования? (лекция-семинар) | [Презентация #1](https://docs.google.com/presentation/d/1muPMzavtgY46UswY1hbi4VR7IdRLXV1z5L8VVlE0vvI/edit#slide=id.p)
-2. Знакомство с Линукс и документацией Cosmos SDK (семинар-воркшоп) | [Презентация #2](https://bit.ly/38du44V)
+2. Знакомство с Линукс и документацией Cosmos SDK (семинар-воркшоп) | [Презентация #2](https://docs.google.com/presentation/d/1Pe_OzRnH6LZAjLvADTuJMoUctI1DvSBOU667nNclCps/edit#slide=id.ge79b5f4f4b_0_654)
 3. Общаемся с блокчейном (семинар-воркшоп) | [Табличка-Шпаргалка](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
 4. Кибер-безопасность и другие настройки валидатора (семинар-воркшоп) | [Презентация #3](https://bit.ly/3jlwAfE)
 
