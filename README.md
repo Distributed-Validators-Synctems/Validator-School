@@ -59,7 +59,7 @@ After the First Meet, if you are agree with the rules of educational proccess, y
 1. What is required for validation? (lecture-seminar) | [Slides for tech lesson #1](https://docs.google.com/presentation/d/1I-cpOVj_xm4p74xAH2Zzlpp4PceOecawf-pf7YoW2t4/edit#slide=id.p)
 2. Introduction to Linux and Cosmos SDK documentation (workshop) | [Slides for technical lesson #2](https://docs.google.com/presentation/d/1oPaTDfrOCyPj-kBAVekk965o5mb2Ku9rxXqp8_jn1k4/edit#slide=id.ge79b5f4f4b_0_654)
 3. Communicating with the blockchain (workshop) | [Sheets for tech lesson #3](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
-4. Cyber-security and validator settings (seminar-workshop) | [Slides for tech lesson #4](https://docs.google.com/presentation/d/1m5CFf-q5ayO6iV7_9FImSozFT4qWVuQvtpvqJX5ZtbA/edit?usp=sharing)
+4. Cyber-security and validator settings (seminar-workshop) | [Slides for tech lesson #4](https://docs.google.com/presentation/d/1guISt0QQsQPAw8Fd-YpO1TwykGEvMwPt5AxRyOivd9s/edit#slide=id.g308fc8c5284_0_0)
 
 ### The practical side of validation (launching own test-net)
 1. Prepare a server for running of node + gentx (workshop)
