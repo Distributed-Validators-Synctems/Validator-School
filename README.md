@@ -1,3 +1,4 @@
+
 [English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) | [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) <br />
 
 # Validator School
@@ -14,11 +15,12 @@ The most capable students will be able to synchronize with the **DVS**. <br />
 1. Fill the application for participation in the **Validator School**:
 - [In english](https://forms.gle/NYqUJbMXoUMB3hGGA)
 - [In russian](https://forms.gle/T3Zmn1iKmrqjFCKc7)
-- [in ukrainian](https://forms.gle/tLJAZ7x4kvuynEVA8)
+- [In ukrainian](https://forms.gle/tLJAZ7x4kvuynEVA8)
 
 2. Join Telegram group of the **Validator School**, and write there that you have completed the application:
 - [In english](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
 - [In russian](https://t.me/joinchat/GPwaOPPzQA04MzNi)
+- [In ukrainian](https://t.me/+C62_bPc8sJYwNWIy)
 
 3. After reviewing your application, you need to participate in [The First Meet](https://docs.google.com/presentation/d/1y3WgGzWx6L11wARu9USBsOajVgzoWOxqddXqdM59fLg/edit?usp=sharing) (online meet), to clarify all questions. <br />
 After the First Meet, if you are agree with the rules of educational proccess, your application will be approved. <br />
