@@ -1,4 +1,4 @@
-[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blame/711a2d27318ce769c0ad61a6a6eaa57c05f1e14c/README_UA.md) <br />
+[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) <br />
 
 # Школа Валідаторів
 
@@ -20,13 +20,13 @@
 2. Приєднуйтесь до Телеграм-групи **Школи Валідаторів** та напишіть про те, що Ви заповнили заяву:
 - [Русскоговорящая группа](https://t.me/joinchat/GPwaOPPzQA04MzNi)
 - [Англоговорящая группа](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
-- [Україномовна група] ( !!! Добавить ссылку украиноязычной группы !!!)
+- [Україномовна група](https://t.me/+C62_bPc8sJYwNWIy)
 
 
 3. Після ознайомлення з вашою заявкою буде призначена Ознайомча Зустріч, на якій ви зможете поставити будь-які запитання. <br />
 -  Ваша заява може бути відхилена та вам повідомлять з якої причини. <br />
 - У разі відхилення заявки, її можна буде подати повторно через 21 день. <br /> 
-[Презентація Ознайомчої Зустрічі](https://docs.google.com/presentation/d/1kbyAxn9DKUVtqJDF1w78w1QTN3H3XnPqk_VRWtnSWdk/edit?usp=sharing !эту ссылку нужно заменить после перевода самой презентации на украинский язык! ) <br /> 
+[Презентація Ознайомчої Зустрічі]( !эту ссылку нужно заменить после перевода самой презентации на украинский язык! ) <br /> 
 
 ## Якщо ваша заява була підтвердженна і Ви знаходилися на Ознайомчій Зустрічі
 
