@@ -22,7 +22,7 @@
 3. Після ознайомлення з вашою заявкою буде призначена Ознайомча Зустріч, на якій ви зможете поставити будь-які запитання. <br />
 -  Ваша заява може бути відхилена та вам повідомлять з якої причини. <br />
 - У разі відхилення заявки, її можна буде подати повторно через 21 день. <br /> 
-[Презентація Ознайомчої Зустрічі]( !эту ссылку нужно заменить после перевода самой презентации на украинский язык! ) <br /> 
+[Презентація Ознайомчої Зустрічі](https://docs.google.com/presentation/d/1DZTcetyDDFS-DA1XEcoKwqfGUIBs9etyKWVETCCKwIE/edit#slide=id.gc6f73a04f_0_0) <br /> 
 
 ## Якщо ваша заява була підтвердженна і Ви знаходилися на Ознайомчій Зустрічі
 
@@ -49,16 +49,16 @@
 
 ### Гуманітарний бік валідації
 
-1. Введення в валідацію (лекція) | [Презентація #1](https://docs.google.com/presentation/d/1klrjhkkdVW0ACZLPe3BvOqfi92toxEHPj6C1X8W8JiU/edit?usp=sharing заменить ссылку после перевода )
-2. Структури які не потребують дозволу на участь. Консенсус в блокчейні та Консенсус між людьми (лекція) | [Презентация #2](https://docs.google.com/presentation/d/1b_xpTiQxTNyiDZQx1SQ_zprsNqHeM5jwXR5hLNbl1o4/edit?usp=sharing заменить ссылку после перевода документации)
-3. Як не загубитися на тлі інших: упаковка валідатора (лекція-семінар) | [Презентація #3](https://docs.google.com/presentation/d/1tJn1LfGO4fsUXPWucrfquVdl-_8MGikQC6QvN94Ict0/edit?usp=sharing   изменить ссылку  )
+1. Введення в валідацію (лекція) | [Презентація #1](https://docs.google.com/presentation/d/1G4xYzSRIbekbuZZS6R0zuG8RNeOFxOLWGpfMyxq-sQM/edit?usp=sharing)
+2. Структури які не потребують дозволу на участь. Консенсус в блокчейні та Консенсус між людьми (лекція) | [Презентация #2](https://docs.google.com/presentation/d/1t1hU1tZ9s0WEkygSo54Nx4vrGc1Btdo7eM3RFVnIvcE/edit?usp=sharing)
+3. Як не загубитися на тлі інших: упаковка валідатора (лекція-семінар) | [Презентація #3](https://docs.google.com/presentation/d/1LFPC8iEKzoB62QVLcyWrVcOddchtPlnFTTpcYu1bFrU/edit?usp=sharing)
 4. Як обрати мережу для валідації? (лекція-семінар)
 5. Яку користь може принести валідатор мережі окрім безпеки? (лекція-семінар)
 6. Яким чином спілкуватися з творцями проекту та іншими валідаторами? (лекція-семінар)
 
 ### Технічна сторона валідації
 
-1. Що необхідно для валідації? (лекція-семінар) | [Презентація #1](https://docs.google.com/presentation/d/1muPMzavtgY46UswY1hbi4VR7IdRLXV1z5L8VVlE0vvI/edit#slide=id.p  заменить ссылку )
+1. Що необхідно для валідації? (лекція-семінар) | [Презентація #1](https://docs.google.com/presentation/d/1G4xYzSRIbekbuZZS6R0zuG8RNeOFxOLWGpfMyxq-sQM/edit#slide=id.gc6f73a04f_0_0)
 2. Знайомство з Лінукс і документацією Cosmos SDK (семінар-воркшоп) | [Презентація #2](https://docs.google.com/presentation/d/1Pe_OzRnH6LZAjLvADTuJMoUctI1DvSBOU667nNclCps/edit#slide=id.ge79b5f4f4b_0_654   заменить ссылку   )
 3. Спілкування з блокчейном (семінар-воркшоп) | [Табличка-Шпаргалка](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing    заменить ссылку   )
 4. Кібер-безпека та інше налаштування валиідатора (семінар-воркшоп) | [Презентація #3](https://docs.google.com/presentation/d/1ojaQhJVCSLxcExo1lB3sGYBDEZNPMvB-A0Ty1sHmhXA/edit#slide=id.gcb06634fd1_0_40   заменить ссылку    )
@@ -97,4 +97,3 @@
 - [Distributed Validators Synctems DAS](https://daodao.zone/dao/juno1h69ky4da8pzauxf0gft7ke9k52vgtp9tjv04527zcfel0272c3qs33sc3j)
 - [Validator School SubDAO](https://daodao.zone/dao/juno1pn54yshdvzjj87qaux8ev33twm4nuhcwyf0uefhcdk77v2jdpc5sgw5wrk)
 - [Alumni SubDAO](https://daodao.zone/dao/juno1ucawzudwafclwsvycsgmjnprujznd6ark4guq5hs7yp74ld4079s4h4z0q)
-
