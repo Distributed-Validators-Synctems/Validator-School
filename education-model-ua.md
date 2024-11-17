@@ -9,9 +9,9 @@
 6. Як спілкуватися з творцями проєкту та іншими валідаторами? (лекція-семінар)
 
 ## Технічний бік валідування
-1. Знайомство з Лінукс і документацією Cosmos SDK (семінар-воркшоп) | [Презентація #1](https://bit.ly/38du44V)
-2. Що необхідно для валідуванняия? (семінар-лекція) | [Презентація #2](https://bit.ly/2Xza4Yl)
-3. Кібер-безпека (семінар-воркшоп) | [Презентація #3](https://bit.ly/3jlwAfE)
+1. Знайомство з Лінукс і документацією Cosmos SDK (семінар-воркшоп) | [Презентація #1](https://docs.google.com/presentation/d/1RB6c2YmmkTpGv-QuGZE94h9RavlUnXg491wABBBz9Xg/edit?usp=sharing)
+2. Що необхідно для валідуванняия? (семінар-лекція) | [Презентація #2](https://docs.google.com/presentation/d/10K0_RmHEFoL5-cHeRo4ZLQ5fD_gPzMjRVGCy6kxevTo/edit?usp=sharing)
+3. Кібер-безпека (семінар-воркшоп) | [Презентація #3](https://docs.google.com/presentation/d/1XxcGU0SSUeztB8z5BM1Xb_fn2UJaxG2SA1q9SowtOh4/edit?usp=sharing)
 4. Спілкуємось з блокчейном (семінар-воркшоп) | [Табличка-Шпаргалка](https://docs.google.com/spreadsheets/d/1haiuoi_TS8iYhEa9F2satd1MeXigiWiD07pY9Ir6LK4/edit?usp=sharing)
 
 ## Практичний бік валідування
