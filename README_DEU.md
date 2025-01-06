@@ -1,4 +1,4 @@
-[Englisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Ukrainisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) <br /> | [Russisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) <br />
+[Englisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Ukrainisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) | [Russisch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) <br />
 
 # Validator-Schule
 
