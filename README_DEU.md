@@ -12,7 +12,7 @@ Die klügsten Schüler können sich mit **DVS** synchronisieren. <br />
 ## Prozess der Teilnahme an der Validator-Schule
 
 1. Füllen Sie einen Antrag auf Teilnahme an der **Validator-Schule*** aus:
-- [Auf Deutsch]([https://forms.gle/NYqUJbMXoUMB3hGGA)]
+- [Auf Deutsch](https://forms.gle/NYqUJbMXoUMB3hGGA)
 - [Auf Russisch](https://forms.gle/vqLwQcEZqVaffGr79)
 - [Auf Englisch](https://forms.gle/NYqUJbMXoUMB3hGGA)
 
