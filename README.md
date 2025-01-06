@@ -1,5 +1,5 @@
 
-[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) | [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) | Deutsch() <br />
+[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Русский](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_RUS.md) | [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) | [Deutsch]() <br />
 
 # Validator School
 
