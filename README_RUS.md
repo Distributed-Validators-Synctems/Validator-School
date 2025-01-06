@@ -1,4 +1,4 @@
-[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) <br />
+[English](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) | [Українська](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_UA.md) | [Deutsch](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README_DEU.md) <br />
 
 # Школа Валидаторов
 
