@@ -12,10 +12,10 @@ Die klügsten Schüler können sich mit **DVS** synchronisieren. <br />
 ## Prozess der Teilnahme an der Validator-Schule
 
 1. Füllen Sie einen Antrag auf Teilnahme an der **Validator-Schule*** aus:
-   [zur Anmeldung](https://forms.gle/R2VmSUjA8qWymVka6)
+   - [zur Anmeldung](https://forms.gle/R2VmSUjA8qWymVka6)
 
 
-2. Treten Sie der Telegram-Gruppe **Validator-Schule** bei und schreiben Sie dort, dass Sie den Antrag ausgefüllt haben:
+3. Treten Sie der Telegram-Gruppe **Validator-Schule** bei und schreiben Sie dort, dass Sie den Antrag ausgefüllt haben:
 - [Deutschsprachige Gruppe](https://t.me/joinchat/ValidatorSchule)
 - [Russischsprachige Gruppe](https://t.me/joinchat/GPwaOPPzQA04MzNi)
 - [Englischsprachige Gruppe](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
