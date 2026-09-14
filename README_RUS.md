@@ -15,9 +15,8 @@
 - [На русском](https://forms.gle/vqLwQcEZqVaffGr79)
 - [На английском](https://forms.gle/NYqUJbMXoUMB3hGGA)
 
-
 2. Присоединяйтесь к Telegram-группе **Школы Валидаторов** и напишите туда, что Вы заполнили заявку:
-- [Русскоговорящая группа](https://t.me/joinchat/GPwaOPPzQA04MzNi)
+- [Русскоговорящая группа](https://t.me/+O3goCaUy0IliODcy)
 - [Англоговорящая группа](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
 - [Немецкоговорящая группа](https://t.me/joinchat/+xLX9E1Subuk5ZDQy)
 
