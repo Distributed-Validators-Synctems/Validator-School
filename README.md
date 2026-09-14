@@ -19,8 +19,8 @@ The most capable students will be able to synchronize with the **DVS**. <br />
 - [In deutsch](https://forms.gle/R2VmSUjA8qWymVka6)
 
 2. Join Telegram group of the **Validator School**, and write there that you have completed the application:
-- [In english](https://t.me/+O3goCaUy0IliODcy)
-- [In russian](https://t.me/+dhsVrYZDaOhhN2Qy)
+- [In english](https://forms.gle/NYqUJbMXoUMB3hGGA)
+- [In russian](https://forms.gle/vqLwQcEZqVaffGr79)
 - [In ukrainian](https://t.me/+C62_bPc8sJYwNWIy)
 - [In deutsch](https://t.me/joinchat/+xLX9E1Subuk5ZDQy)
 
