@@ -14,11 +14,10 @@ Die klügsten Schüler können sich mit **DVS** synchronisieren. <br />
 1. Füllen Sie einen Antrag auf Teilnahme an der **Validator-Schule*** aus:
    - [zur Anmeldung](https://forms.gle/R2VmSUjA8qWymVka6)
 
-
 3. Treten Sie der Telegram-Gruppe **Validator-Schule** bei und schreiben Sie dort, dass Sie den Antrag ausgefüllt haben:
 - [Deutschsprachige Gruppe](https://t.me/joinchat/+xLX9E1Subuk5ZDQy)
-- [Russischsprachige Gruppe](https://t.me/joinchat/GPwaOPPzQA04MzNi)
-- [Englischsprachige Gruppe](https://t.me/joinchat/hP6xVEGmwkU1NmVi)
+- [Russischsprachige Gruppe](https://t.me/+dhsVrYZDaOhhN2Qy)
+- [Englischsprachige Gruppe](https://t.me/+O3goCaUy0IliODcy)
 
 
 3. Nach Prüfung Ihrer Bewerbung wird ein Einführungsgespräch vereinbart, bei dem Sie Fragen stellen können. <br />
